@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "$(date): poo" >> ~/Dropbox/dev/flic.io/baby.log
+echo "$(date): poo" >> ~/Dropbox/dev/poop-tracker/baby.log
